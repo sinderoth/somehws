@@ -1,10 +1,7 @@
 #include "Car.h"
 #include "Utilizer.h"
 #include <iostream>
-/*
-YOU MUST WRITE THE IMPLEMENTATIONS OF THE REQUESTED FUNCTIONS
-IN THIS FILE. START YOUR IMPLEMENTATIONS BELOW THIS LINE
-*/
+
 
 Car::Car(std::string driver_name){
   this->driver_name = driver_name;
@@ -47,8 +44,7 @@ Car::Car(const Car& rhs){
 
 Car::~Car(){
 
-
-  // to be added soon
+n
   Laptime* ptr = this->head;
   if (ptr != NULL){
   while (ptr->getNext() != NULL){
