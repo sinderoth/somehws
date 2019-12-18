@@ -1,3 +1,4 @@
 # somehws
-Rasterizer implementing the Forward Rendering Pipeline,\n
+Rasterizer implementing the Forward Rendering Pipeline,
+
 hash table
