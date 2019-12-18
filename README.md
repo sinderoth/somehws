@@ -1,4 +1,3 @@
 # somehws
-hash-table,
-BST,
-game
+Rasterizer implementing the Forward Rendering Pipeline,
+hash table
