@@ -1,4 +1,5 @@
 # somehws
-Rasterizer implementing the Forward Rendering Pipeline,
+
+f1 kinda game,
 
 hash table
